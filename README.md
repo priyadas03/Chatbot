@@ -1,13 +1,13 @@
 # **Chatbot**
 Chatbot uisng Python,NLP,Data Scaience
 
-## **Brief on Chatbots**
+## **Brief on Chatbots**🔎🔎🔎🔎
 "A chatbot or chatterbot is a spftware application used to conduct an on-line chat conversation via text or text-to-speech , in liut of providing direct contact with a live human agent."
 
 **Chatbots are one of the most frequently seen AI  us in our daily life!**
 
 ## **The first chatbot was Eliza created in 1966**
-## Need of chatbots
+## Need of chatbots🎓🎓
 **Messaging apps**
 FB bots of comopanies,Hike -Natasha
 **Customer Service**
@@ -15,7 +15,7 @@ Swiggy Bot, Zomato Bot, Vogo Bot
 **Company internal use**
 Internal HR bot, Internal Finance tool Bot
 
-## Types of Chatbots
+## Types of Chatbots🎓🎓
 *simple chatbots.Simple chatbots have limited capabilies and are usually called rule based bots.They are task-specific.
 
 
